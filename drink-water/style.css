@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap');
-
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600&display=swap");
 
 :root {
     --border-color: #144fc6;
@@ -13,7 +12,7 @@
 body {
     background-color: #3494e4;
     color: #fff;
-    font-family: 'Montserrat', sans-serif;
+    font-family: "Montserrat", sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -103,4 +102,3 @@ h3 {
     text-align: center;
     margin: 0 0 5px;
 }
-
